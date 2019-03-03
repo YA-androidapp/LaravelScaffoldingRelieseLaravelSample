@@ -82,7 +82,7 @@ If ($lnum -ne -1){
 
 ```powershell
 $ php artisan make:auth
-$ php artisan migrate migrate:fresh
+$ php artisan migrate
 ```
 
 6. 実行
